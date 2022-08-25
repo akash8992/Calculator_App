@@ -44,7 +44,7 @@ class MainApplication extends StatelessWidget {
                 ),
                 child: Column(
                   children: [
-                    _btns('C', 'DE', '(', ')'),
+                    _btns('C', 'DEL', '(', ')'),
                     _btns('7', '8', '9', '/'),
                     _btns('4', '5', '6', 'x'),
                     _btns('1', '2', '3', '+'),
